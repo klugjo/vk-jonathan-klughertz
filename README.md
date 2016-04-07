@@ -79,7 +79,7 @@ $ npm start
 $ npm test
 ```
 
-## Lint
+## Linting
 
 ```
 $ npm run lint
