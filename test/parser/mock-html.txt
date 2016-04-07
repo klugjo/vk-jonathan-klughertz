@@ -1,0 +1,2712 @@
+
+<!DOCTYPE html>
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 country-sg" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 country-sg" lang="en"> <![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10 country-sg" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js country-sg" lang="en" data-cast-api-enabled="true"> <!--<![endif]-->
+
+<head>
+    <title>Korean Drama, Taiwanese Drama, Bollywood, Anime and Telenovelas free online with subtitles - Viki</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-Language" content="en"/>
+    <meta name="description" content="Watch korean dramas. korean shows, kdrama, Bollywood. Watch global TV shows, movies, music videos, entertainment news, Splash TV and more, subtitled in English, Spanish, Portuguese, French, Arabic and many more languages by fan subbers"/>
+
+    <link rel='canonical' href='https://www.viki.com/'/>
+
+    <link rel='alternate' href='https://www.viki.mx/' hreflang='es'/><link rel='alternate' href='https://www.viki.com/' hreflang='en'/><link rel='alternate' href='https://www.viki.jp/' hreflang='ja'/><link rel='alternate' href='https://www.viki.com/?locale=fr' hreflang='fr'/><link rel='alternate' href='https://www.viki.com/?locale=zh-cn' hreflang='zh-cn'/><link rel='alternate' href='https://www.viki.com/?locale=zh-tw' hreflang='zh-tw'/><link rel='alternate' href='https://www.viki.com/' hreflang='x-default'/>
+    <link type="application/opensearchdescription+xml" rel="search" href="/opensearch.xml"/>
+    <meta property="fb:app_id" content="145730428798132"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--  Android 5 Chrome Color-->
+    <meta name="theme-color" content="#3C9CD7">
+    <!-- future proof IE browsers -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="msapplication-tap-highlight" content="no">
+    <!--[if lt IE 9]>
+    <script type="text/javascript">
+        document.createElement('header');
+        document.createElement('nav');
+        document.createElement('section');
+        document.createElement('article');
+        document.createElement('figure');
+        document.createElement('aside');
+        document.createElement('footer');
+        document.createElement('hgroup');
+    </script>
+    <![endif]-->
+    <link href="//1.viki.io/a/favicon-19be687889d7f3fbe9b05e0d1a6fdc6d.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+    <link href="//0.viki.io/a/application_responsive-a567a8c75e9b62b69c95be21f4f91235.css" media="all" rel="stylesheet" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+        if (typeof jQuery === 'undefined') {
+            document.write('<script crossorigin=\"anonymous\" src=\"https://0.viki.io/a/jquery-e10878bd60ec340a10f1c457a1744a2e.js\"><\/script>');
+            _gaq.push(['_trackEvent', 'corsError', 'not_loaded_jquery_' + window.vikiGeoCode, window.location.href]);
+        }
+        $('html').removeClass('no-js').addClass('with-js');
+    </script>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1670373-2']);
+        _gaq.push(['_trackPageview']);
+        _gaq.push(['_setCustomVar', 1, 'rails_action', 'home_show']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+    <script type="text/javascript">
+        // New GA Universal Analytics tracking code
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-1670373-18', 'viki.com');
+        ga('send', 'pageview');
+    </script>
+
+    <script language="javascript" type="text/javascript">
+        window.raynor = {};
+        raynor.session = {};
+        window.vikiDomain = "www.viki.com";
+        window.vikiCookieDomain = "viki.com";
+        window.vikiUriSSL = "https://www.viki.com";
+        window.vikiGeoCode = "SG";
+        window.vikiliticsHost = "https://clvk.viki.io";
+        window.railsEnv = "production";
+    </script>
+
+    <script crossorigin="anonymous" src="//0.viki.io/a/utility-4eb783c13eed3b82def3fb2bcbad7995.js"></script>
+    <script>
+        //<![CDATA[
+        if(window.raynor.utility.getReferer === undefined) {
+            _gaq.push(['_trackEvent', 'corsError', 'not_loaded', 'utility']);
+            var tag = '<scr'+'ipt src="/a/utility-4eb783c13eed3b82def3fb2bcbad7995.js"></scr'+'ipt>';
+            $("body").append(Tag);
+        }
+
+        //]]>
+    </script>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Condensed:400,300,
+  700' rel='stylesheet' type='text/css'>
+
+
+
+    <script type="text/javascript">
+        window.user_locale = 'en';
+    </script>
+
+
+    <script src="//cdn.optimizely.com/js/360160327.js"></script>
+
+    <meta name="fragment" content="!">
+    <meta name="twitter:card" content="app">
+    <meta name="twitter:description" content="Watch the best TV shows, movies, music videos, variety selection of Korean dramas, and other premium content in high quality, translated into more than 150 languages by a community of avid fans.">
+    <meta name="twitter:app:id:iphone" content="445553058">
+    <meta name="twitter:app:id:ipad" content="445553058">
+    <meta name="twitter:app:id:googleplay" content="com.viki.android"/>
+    <meta name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.viki.android"/>
+
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+
+
+</head>
+
+<body class="js-home home-show  " data-block-track="bodyDefault">
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TG274C"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TG274C');</script>
+
+<div class="page-wrapper">
+    <div id="flash_messages" class="flash-message" data-block-track="flashMessages"></div>
+    <a href="#" id="trigger" data-modal-action="close" data-modal="data-modal-mobile-banner" class="hidden" data-block-track="modalClose"></a>
+    <div id="data-modal-mobile-banner" class="modal modal-mobile-banner invisible" data-responsive="true" data-block-track="mobileModal">
+        <a href="#" class="close-link" data-modal-action='close' data-mobile-browse="1" title="Or continue browsing"><i class="icon icon-x"></i></a>
+        <div class="row">
+            <div class="col s2">
+                <img alt="Mobile banner logo" class="mobile-banner-logo responsive-img" height="136" src="//1.viki.io/a/static/mobile-banner-logo-0169cd97c9214ce0c766eabf602ff18c.png" width="136" />
+            </div>
+            <div class="col s10">
+                <h3 class="mobile-banner-header display-1 uppercase">Viki</h3>
+                <p class="info caption mobile-banner-caption">Download the Viki app to watch your favorite shows on-the-go!</p>
+                <div class="mobile-banner-buttons">
+                    <a href="#" class="btn btn-accent btn-primary btn-download-app" data-mobile-download="1" data-utm-params="">Download App</a>
+                    <a href='#' class='btn btn-primary btn-play-app deepLink appPlay mbn hidden'>Play on App</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="lang_suggest"></div>
+
+    <!-- Need to cache this later -->
+    <nav class="navbar">
+        <!-- Condensend navbar for smaller screens -->
+        <ul class="navbar-condensed hide-on-large">
+            <li class="navbar-logo">
+                <a href="https://www.viki.com" data-block-track="homeLogo"><span>Viki - Global TV Powered by Fans</span></a>
+            </li>
+            <li class="navbar-menu-item">
+                <a class="js-site-nav"><i class="icon-menu"></i></a>
+            </li>
+            <li class="navbar-search-item">
+                <a href="/search" class="js-site-search"><i class="icon-search"></i></a>
+            </li>
+        </ul>
+
+        <div class="container">
+            <div class="navbar-expanded">
+                <a href="#" class="navbar-close js-site-nav-close hide-on-large">&#x2715;</a>
+                <ul class="navbar-group-start">
+                    <li class="navbar-logo">
+                        <a href="https://www.viki.com" data-block-track="homeLogo"><span>Viki - Global TV Powered by Fans</span></a>
+                    </li>
+                    <li class="navbar-home hide-on-large"><a href="https://www.viki.com" data-block-track="homeLogo">Home</a></li>
+                    <li class="navbar-divider"></li>
+                    <li class="navbar-item"><a data-block-track="headerExplore" href="/explore">Explore</a></li>
+                    <li class="navbar-tv-guide navbar-item"><a href="/tv-guide" data-block-track="headerTVGuide">TV Guide</a></li>
+                </ul>
+
+                <ul class="navbar-group-end">
+                    <li class="navbar-search-container search-element">
+                        <form accept-charset="UTF-8" action="/search" class="navbar-search-form" data-search-form="1" id="search_form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+                            <a href="#" class="navbar-search-close hide-on-large js-site-search-close">&#x2715;</a>
+                            <a href="#" data-search-btn="1" class="navbar-search-button icon-search" data-block-track="headerSearchButton"></a>
+                            <input autocomplete="off" class="vkal-search-box navbar-search-box" data-search-field="1" id="q" name="q" onblur="this.placeholder = &#39;Search...&#39;" onfocus="this.placeholder = &#39;&#39;" placeholder="Search..." type="text" value="" />
+                        </form>          <ul class="navbar-search-results hidden" data-search-result="1" data-block-track="headerSearchResult"></ul>
+                    </li>
+
+                    <!-- COMMUNITY -->
+                    <li class="navbar-dropdown-item navbar-more navbar-item">
+                        <a data-block-track="header" class="navbar-dropdown">Community <i class="icon-caret-down mls"></i></a>
+                        <ul class="navbar-dropdown-container" data-block-track="headerCommunityLinks">
+
+                            <!-- SECTION 1 -->
+                            <li>
+                                <!-- Subtitling community -->
+                                <a data-block-track="headerSubtitlingCommunity" href="/community">Viki Subtitling Community</a></li>
+                            <li>
+                                <!-- How to contribute -->
+                                <a data-block-track="headerHowToContribute" href="/subtitling_community/how_to_contribute">How to contribute</a></li>
+                            <li>
+                                <!-- Viki U -->
+                                <a data-block-track="headerVikiU" href="/tv/20181c-viki-u">Viki U</a></li>
+                            <li class="navbar-divider"></li>
+
+                            <!-- SECTION 3 -->
+                            <li>
+                                <!-- Discussions -->
+                                <a data-block-track="headerDiscussions" href="https://discussions.viki.com">Discussions</a></li>
+                            <li>
+                                <!-- Blog -->
+                                <a data-block-track="headerBlog" href="http://blog.viki.com">Blog</a></li>
+
+                            <li>
+                                <!-- Store -->
+                                <a data-block-track="headerStore" href="https://viki.spreadshirt.com?r=header">Store</a></li>
+                            <li class="navbar-divider"></li>
+
+                            <!-- SECTION 2 -->
+                            <li>
+                                <!-- Celebrities  -->
+                                <a data-block-track="headerCelebrities" href="/celebrities">Celebrities</a></li>
+
+                            <li id="on-air-menu-tv" class="menu-dropdown hidden">
+                                <!-- On air -->
+                                <a class="on_air" data-block-track="headerOnAir" href="/on_air">Currently On Air</a></li>
+                            <li>
+                                <!-- Featured networks -->
+                                <a data-block-track="headerNetworks" href="/networks">Featured Networks</a></li>
+                            <li>
+                                <!-- Movies -->
+                                <a data-block-track="headerMovies" href="/movies">Movies</a></li>
+                            <li>
+                                <!-- Genre -->
+                                <a data-block-track="headerGenre" href="/genres">Genres</a></li>
+                            <li class="navbar-divider"></li>
+                        </ul>
+                    </li>
+
+                    <li class="navbar-item hidden" data-viewable='non-ps'><a data-block-track="headerVikiPass" href="https://www.viki.com/pass?"><span class="btn btn-accent btn-small">Get Viki Pass</span></a>
+                    </li>
+
+                    <li class="navbar-divider"></li>
+
+                    <li id="signup" class="navbar-dropdown-item navbar-signin navbar-item" data-block-track="headerSignup">
+                        <a href="/sign_in" class="navbar-dropdown"><i class="icon-user"></i> Sign in</a>
+                        <div class="navbar-dropdown-container">
+                            <div class="login-tab">
+                                <div class="login-container social-login">
+                                    <button class="btn btn-facebook btn-block" data-fb-login="1">
+                                        <i class="icon-facebook"></i> <span>Sign in with Facebook</span>
+                                    </button>
+                                    <br>
+                                    <button class="btn btn-google btn-block googleLoginBtn" data-google-login="1">
+                                        <i class="icon-google"></i> <span>Sign in with Google</span>
+                                    </button>
+                                    <br>
+                                    <button class="btn btn-rakuten btn-block rakutenLoginBtn" data-rakuten-login="1">
+                                        <i class="icon-rakuten"></i> <span>Sign in with Rakuten ID</span>
+                                    </button>
+                                </div>
+                                <span class="circle-text">or</span>
+                                <div class="login-container email-login">
+                                    <a class="btn btn-primary btn-sign-in btn-block" href="/sign_in">Sign in with Email</a>
+                                </div>
+                                <div class="login-container sign-up-info">
+                                    Not a member?
+                                    <br>
+                                    <a href='/sign_up' class='strong'>Sign up</a>
+                                </div>
+                            </div>
+
+                            <script>
+                                $(document).ready(function() {
+                                    // Force redirect with anchor. Anchor are not pass to server.
+                                    var anchor = window.location.hash;if(!!anchor){$("#loginForm").attr('action', "/sign_in" + anchor)}
+                                    // enable client side login for clients that support it
+                                    if (raynor.utility.supportCors()) {
+                                        raynor.clientside_login.init();
+                                    }
+                                });
+                            </script>
+
+                        </div>
+                    </li>
+                    <li id="watch-history-icon" class="navbar-watch-history navbar-item hidden">
+                        <a rel='your-watch-history' href="#" class="watch-history" data-block-track="userWatchHistory">
+                            <i class="icon-watch-history"></i>
+                        </a>
+                    </li><li class="navbar-inbox navbar-item">
+                    <a href="/inbox" class="mail-inbox" data-block-track="headeruserinbox">
+                        <span class="mail-count js-mail-count hidden"></span>
+                        <i id="mail-icon" class="icon-mail hidden"></i>
+                    </a>
+                </li>
+                    <li id="user-dash" class="hidden navbar-dropdown-item navbar-user navbar-item">
+                        <a href="#" id="menu-profile" data-block-track="headerUser" rel="your-profile" class="navbar-dropdown">
+                            <img class="avatar circle" alt="Profile" src="//1.viki.io/a/ph/avatar_regular-b0a33c5c2e6815afca5ed72df9f5e986.png" height="24" width="24">
+                            <span class="hide-on-large">Profile</span>
+                            <i class="icon-caret-down"></i>
+                        </a>
+                        <a href="#" id="menu-watch-history" data-block-track="headerUser" rel="your-watch-history" class="navbar-dropdown hide-on-large">
+                            <span class="hide-on-large">Watch History</span>
+                        </a>
+                        <a class="hide-on-large" data-block-track="headerLogout" href="/sign_out" id="logout_button" rel="nofollow">Log Out</a>
+                        <ul class="navbar-dropdown-container" data-block-track="headerUserLinks">
+                            <li><a href="#" rel="your-profile">Profile</a></li>
+                            <li><a href="#" rel="your-favs">Following</a></li>
+                            <li><a href="#" rel="your-projects">Projects</a></li>
+                            <li><a href="#" rel="your-contributions">Contributions</a></li>
+                            <li class="navbar-divider"></li>
+                            <li><a href="https://www.viki.com/settings">Edit Profile</a></li>
+                            <li><a id="acc_settings" href="https://www.viki.com/settings#account-settings">Account Settings</a></li>
+                            <li><a id="vikipass_settings" href="https://www.viki.com/settings/vikipass">Viki Pass Settings</a></li>
+                            <li class="navbar-divider"></li>
+                            <li><a href="/zendesk/login" title="Help Center">Help Center</a></li>
+                            <li><a data-block-track="headerLogout" href="/sign_out" id="logout_button" rel="nofollow">Log Out</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+
+
+
+
+    <div class="container carousel-container">
+        <div class="carousel carousel-wide" data-carousel="big" data-block-track="carousel">
+            <ul class="carousel-list" data-carousel-items='1'>
+                <li class="item active">
+                    <img class="thumbnail-poster" alt="Wind Chime" height="330" src="https://1.viki.io/carousel/M7-elofiCz3mK1JGj7gllg_Wind-Chime_2880x950.jpg?x=b&amp;s=1440x475&amp;q=h&amp;cb=1" width="475">
+
+                    <a data-resource-id="30736c" href="/tv/30736c-wind-chime" class="carousel-play-action vkal-track " data-brick-ad="false"></a>
+
+                    <div class="carousel-details thumbnail-overlay">
+                        <div class="thumbnail-overlay-caption-container">
+                            <div class="thumbnail-overlay-caption left-align">
+
+                                <span class="country">China</span>
+                                <div>
+                                    <span class="strong">9.0</span>
+                                    <i class="exclusive icon-star-rounded "></i>
+                                    <span class="caption">(34 ratings)</span>
+                                </div>
+                                <h2 class="carousel-title headline">
+                                    <span class="uppercase strong carousel-title-badge" data-badge-type="labels" data-watch-now-episode="1096997v" data-badge-size="large" data-watch-now-time="1459958400" data-watch-now-type="TV" data-watch-now-on-air="true" data-watch-coming-soon="false" data-definitive-on-air="true" data-thumbnail-type="series" data-definitive-coming-soon="false"></span><a class="vkal-track" data-resource-id="30736c" href="/tv/30736c-wind-chime">Wind Chime</a>
+                                </h2>
+
+
+
+                                <p class="carousel-summary">When a young woman sets off on an epic journey to find answers about her murdered mother, will she discover the road to her own destiny?</p>
+
+                                <div class="carousel-misc">
+                                    <div class="inline-block carousel-channel-manager">
+                                        <a href="/users/serenite78" title="serenite78">
+                                            <img alt="serenite78" class="thumbnail-avatar thumbnail-avatar-tiny" height="20" src="https://graph.facebook.com/100002190908970/picture?width=20&amp;height=20" width="20" />
+                                            Channel Manager
+                                        </a>
+                                    </div>
+
+                                    <div class="counter inline-block"
+                                         data-tooltip="languages_tooltip"
+                                         data-tooltip-type="containers"
+                                         data-tooltip-id="30736c"
+                                         data-tooltip-src='/container_languages_tooltips/30736c.json'
+                                         data-tooltip-position="left"
+                                    >
+                                        <i class="icon-viki-symbol">
+                                            <span>12</span>
+                                        </i>
+                                        <em>languages</em>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="item">
+                    <img class="thumbnail-poster" alt="Scarlet Heart" height="330" data-real="https://1.viki.io/carousel/vNt0EzfCfyT7XEqqln8WwA_Startling-by-Each-Step_1440x475.jpg?x=b&amp;s=1440x475&amp;q=h&amp;cb=1" width="475">
+
+                    <a data-resource-id="2978c" href="/tv/2978c-scarlet-heart" class="carousel-play-action vkal-track " data-brick-ad="false"></a>
+
+                    <div class="carousel-details thumbnail-overlay">
+                        <div class="thumbnail-overlay-caption-container">
+                            <div class="thumbnail-overlay-caption left-align">
+
+                                <span class="country">China</span>
+                                <div>
+                                    <span class="strong">9.7</span>
+                                    <i class="exclusive icon-star-rounded "></i>
+                                    <span class="caption">(57 ratings)</span>
+                                </div>
+                                <h2 class="carousel-title headline">
+                                    <span class="uppercase strong carousel-title-badge" data-badge-type="labels" data-watch-now-episode="146202v" data-badge-size="large" data-watch-now-time="" data-watch-now-type="TV" data-watch-now-on-air="false" data-watch-coming-soon="false" data-definitive-on-air="false" data-thumbnail-type="TV" data-definitive-coming-soon="false"></span><a class="vkal-track" data-resource-id="2978c" href="/tv/2978c-scarlet-heart">Scarlet Heart</a>
+                                </h2>
+
+
+
+                                <p class="carousel-summary">Can a modern-day woman who is transported back in time survive the life of a lady of the court during the Qing Dynasty? </p>
+
+                                <div class="carousel-misc">
+
+                                    <div class="counter inline-block"
+                                         data-tooltip="languages_tooltip"
+                                         data-tooltip-type="containers"
+                                         data-tooltip-id="2978c"
+                                         data-tooltip-src='/container_languages_tooltips/2978c.json'
+                                         data-tooltip-position="left"
+                                    >
+                                        <i class="icon-viki-symbol">
+                                            <span>40</span>
+                                        </i>
+                                        <em>languages</em>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="item">
+                    <img class="thumbnail-poster" alt="Chinese Paladin 3" height="330" data-real="https://1.viki.io/carousel/0Na4PAX5otbMOX_62TzFng_Chinese-Paladin-3_1440x475.jpg?x=b&amp;s=1440x475&amp;q=h&amp;cb=1" width="475">
+
+                    <a data-resource-id="391c" href="/tv/391c-chinese-paladin-3" class="carousel-play-action vkal-track " data-brick-ad="false"></a>
+
+                    <div class="carousel-details thumbnail-overlay">
+                        <div class="thumbnail-overlay-caption-container">
+                            <div class="thumbnail-overlay-caption left-align">
+
+                                <span class="country">China</span>
+                                <div>
+                                    <span class="strong">8.7</span>
+                                    <i class="exclusive icon-star-rounded "></i>
+                                    <span class="caption">(13 ratings)</span>
+                                </div>
+                                <h2 class="carousel-title headline">
+                                    <span class="uppercase strong carousel-title-badge" data-badge-type="labels" data-watch-now-episode="16794v" data-badge-size="large" data-watch-now-time="" data-watch-now-type="TV" data-watch-now-on-air="false" data-watch-coming-soon="false" data-definitive-on-air="false" data-thumbnail-type="TV" data-definitive-coming-soon="false"></span><a class="vkal-track" data-resource-id="391c" href="/tv/391c-chinese-paladin-3">Chinese Paladin 3</a>
+                                </h2>
+
+
+
+                                <p class="carousel-summary">A magical jade takes a mischievous young man and his traveling companions on an epic adventure to stop evil from destroying the world.</p>
+
+                                <div class="carousel-misc">
+                                    <div class="inline-block carousel-channel-manager">
+                                        <a href="/users/Shoaquin" title="Shoaquin">
+                                            <img alt="Shoaquin" class="thumbnail-avatar thumbnail-avatar-tiny" height="20" src="https://0.viki.io/u/1425u/e000d1a404.jpg?s=20x20&amp;f=t&amp;cb=1" width="20" />
+                                            Channel Manager
+                                        </a>
+                                    </div>
+
+                                    <div class="counter inline-block"
+                                         data-tooltip="languages_tooltip"
+                                         data-tooltip-type="containers"
+                                         data-tooltip-id="391c"
+                                         data-tooltip-src='/container_languages_tooltips/391c.json'
+                                         data-tooltip-position="left"
+                                    >
+                                        <i class="icon-viki-symbol">
+                                            <span>9</span>
+                                        </i>
+                                        <em>languages</em>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li class="item">
+                    <img class="thumbnail-poster" alt="What Is Love" height="330" data-real="https://1.viki.io/carousel/_41VuB9eqctUsOGQpYX0zA_whatislove1440x475.jpg?x=b&amp;s=1440x475&amp;q=h&amp;cb=1" width="475">
+
+                    <a data-resource-id="10397c" href="/tv/10397c-what-is-love" class="carousel-play-action vkal-track " data-brick-ad="false"></a>
+
+                    <div class="carousel-details thumbnail-overlay">
+                        <div class="thumbnail-overlay-caption-container">
+                            <div class="thumbnail-overlay-caption left-align">
+
+                                <span class="country">Taiwan</span>
+                                <div>
+                                    <span class="strong">9.1</span>
+                                    <i class="exclusive icon-star-rounded "></i>
+                                    <span class="caption">(44 ratings)</span>
+                                </div>
+                                <h2 class="carousel-title headline">
+                                    <span class="uppercase strong carousel-title-badge" data-badge-type="labels" data-watch-now-episode="1001819v" data-badge-size="large" data-watch-now-time="" data-watch-now-type="TV" data-watch-now-on-air="false" data-watch-coming-soon="false" data-definitive-on-air="false" data-thumbnail-type="TV" data-definitive-coming-soon="false"></span><a class="vkal-track" data-resource-id="10397c" href="/tv/10397c-what-is-love">What Is Love</a>
+                                </h2>
+
+
+
+                                <p class="carousel-summary">When an innocent woman meets a playboy, can she reform his womanizing ways and help him settle in a monogamous relationship?</p>
+
+                                <div class="carousel-misc">
+                                    <div class="inline-block carousel-channel-manager">
+                                        <a href="/users/scircus" title="scircus">
+                                            <img alt="scircus" class="thumbnail-avatar thumbnail-avatar-tiny" height="20" src="https://0.viki.io/u/1081792u/UjbVVWLtDT.png?s=20x20&amp;f=t&amp;cb=1" width="20" />
+                                            Channel Manager
+                                        </a>
+                                    </div>
+
+                                    <div class="counter inline-block"
+                                         data-tooltip="languages_tooltip"
+                                         data-tooltip-type="containers"
+                                         data-tooltip-id="10397c"
+                                         data-tooltip-src='/container_languages_tooltips/10397c.json'
+                                         data-tooltip-position="left"
+                                    >
+                                        <i class="icon-viki-symbol">
+                                            <span>24</span>
+                                        </i>
+                                        <em>languages</em>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </li>
+
+            </ul>
+            <div class="carousel-actions">
+                <a href="#" class="action-prev" data-carousel-action="prev"><i class="icon-chevron-thin-left"></i></a>
+                <a href="#" class="action-next" data-carousel-action="next"><i class="icon-chevron-thin-right"></i></a>
+            </div>
+            <div class="carousel-pagination" data-carousel-bullets='1'>
+                <a href="#" class="active"></a>
+                <a href="#" class=""></a>
+                <a href="#" class=""></a>
+                <a href="#" class=""></a>
+            </div>
+        </div>
+
+    </div>
+
+    <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebSite",
+    "name" : "Viki",
+    "url": "https://www.viki.com/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.viki.com/search?q={q}",
+      "query-input": "required name=q"
+    }
+  }
+</script>
+
+    <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "Viki Inc",
+    "url" : "https://www.viki.com/",
+    "logo": "https://www.viki.com/viki_logo.png",
+    "sameAs" : [
+      "https://www.facebook.com/viki",
+      "https://twitter.com/Viki",
+      "https://plus.google.com/+vikiofficial/",
+      "https://www.pinterest.com/Viki/",
+      "https://www.instagram.com/viki/"
+    ]
+  }
+</script>
+
+    <div class="main-container">
+        <div class="container">
+            <div class="row section">
+                <div class="col s12 l5">
+                    <h2 class="section-heading"><a class="uppercase content-link" data-block-track="tagMoreLink" href="/tags/33t-begin-your-drama-journey">Begin Your Drama Journey!</a></h2>
+                    <div class="card">
+                        <div class="card-content">
+                            <p>Want to try Asian dramas but not sure what to watch first? Here are some recommendations to get you started!</p>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-content">
+                            <ul data-block-track="tagResourceContent">
+
+
+                                <li class="separator col-inline s6 m6 l3 js-follow-status js-express-player" data-container-id="29266c" data-ep-vidtype="trailers" data-thumb-type="series">
+                                    <div class="thumbnail thumbnail-large" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="29266c" data-tooltip-src="/tooltips/tv/29266.json" data-tooltip-position="right" data-block-track="tagResourceContainer">
+                                        <div class="thumbnail-wrapper">
+                                            <a href="/tv/29266c-love-me-if-you-dare"><img alt=" Love Me If You Dare " class="responsive-img" height="330" src="https://1.viki.io/c/29266c/love-me-if-you-dare_1560x872.jpg?x=b&amp;s=1180x660&amp;q=h&amp;e=t&amp;f=t&amp;cb=1" width="590" /></a>
+                                        </div>
+                                        <div class="thumbnail-description dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <a href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></a>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/29266c-love-me-if-you-dare" data-modal-language="EN 100%"><a href="#" class="js-btn-watchclip" data-block-track="calloutWatchTrailer">Watch Trailer</a></li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                            <div>
+                                                <a href="/tv/29266c-love-me-if-you-dare" class="thumb-title strong">
+        <span class="moonshine uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1082826v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span> Love Me If You Dare
+                                                </a>
+                                                <div class="grey-text thumb-caption">
+                                                    <span>EN 100%</span>
+                                                    <span class="phs">&bull;</span>
+                                                    China
+                                                </div>
+                                                <span class="strong">9.7</span>
+                                                <i class="icon-star-rounded exclusive"></i>
+                                                <span class="caption info">(2432 ratings)</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="section no-pad-top info-emphasis">
+                                        <div class="inline-block carousel-channel-manager">
+                                            <a href="/users/serenite78" title="serenite78">
+                                                <img alt="serenite78" class="thumbnail-avatar thumbnail-avatar-tiny va-bottom circle" height="20" src="https://graph.facebook.com/100002190908970/picture?width=20&amp;height=20" width="20" />
+                                                Channel Manager
+                                            </a>
+                                        </div>
+                                        <div class="pull-right">
+                                            31768 Followers
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h3 class="content-heading">Cast</h3>
+                                        <div class="row-inline" data-block-track="tagResourceCelebrity">
+
+                                            <div itemprop="actor" itemscope="" itemtype="http://schema.org/Person" class="thumbnail col-inline s3">
+                                                <div  class="thumbnail-wrapper">
+                                                    <div>
+                                                        <a itemprop="url" href="/celebrities/13283pr-wallace-huo">
+                                                            <img alt="Wallace Huo" class="responsive-img" height="63" itemprop="image" src="https://1.viki.io/pr/13283pr/9985cef6ff.jpg?x=b&amp;a=0x0&amp;s=220x126&amp;e=t&amp;f=t&amp;cb=1" width="110" />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="thumbnail-description info">
+                                                    <a href="/celebrities/13283pr-wallace-huo" class="thumb-title word-ellipsis"><span itemprop="name">Wallace Huo</span></a>
+                                                </div>
+                                            </div>
+
+                                            <div itemprop="actor" itemscope="" itemtype="http://schema.org/Person" class="thumbnail col-inline s3">
+                                                <div  class="thumbnail-wrapper">
+                                                    <div>
+                                                        <a itemprop="url" href="/celebrities/17840pr-sandra-ma">
+                                                            <img alt="Sandra Ma" class="responsive-img" height="63" itemprop="image" src="https://1.viki.io/pr/17840pr/cd98c47687.jpg?x=b&amp;a=0x0&amp;s=220x126&amp;e=t&amp;f=t&amp;cb=1" width="110" />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="thumbnail-description info">
+                                                    <a href="/celebrities/17840pr-sandra-ma" class="thumb-title word-ellipsis"><span itemprop="name">Sandra Ma</span></a>
+                                                </div>
+                                            </div>
+
+                                            <div itemprop="actor" itemscope="" itemtype="http://schema.org/Person" class="thumbnail col-inline s3">
+                                                <div  class="thumbnail-wrapper">
+                                                    <div>
+                                                        <a itemprop="url" href="/celebrities/20975pr-wang-kai">
+                                                            <img alt="Wang Kai" class="responsive-img" height="63" itemprop="image" src="https://1.viki.io/pr/20975pr/4646c299bb.jpg?x=b&amp;a=0x0&amp;s=220x126&amp;e=t&amp;f=t&amp;cb=1" width="110" />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="thumbnail-description info">
+                                                    <a href="/celebrities/20975pr-wang-kai" class="thumb-title word-ellipsis"><span itemprop="name">Wang Kai</span></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+
+
+                                <li class="separator col-inline s6 m6 l3 js-follow-status js-express-player" data-container-id="28818c" data-ep-vidtype="trailers" data-thumb-type="series">
+                                    <div class="thumbnail thumbnail-large" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="28818c" data-tooltip-src="/tooltips/tv/28818.json" data-tooltip-position="right" data-block-track="tagResourceContainer">
+                                        <div class="thumbnail-wrapper">
+                                            <a href="/tv/28818c-my-best-ex-boyfriend"><img alt="My Best Ex-Boyfriend" class="responsive-img" height="330" src="https://1.viki.io/c/28818c/my-best-ex-boyfriend_channel_1560x872.jpg?x=b&amp;s=1180x660&amp;q=h&amp;e=t&amp;f=t&amp;cb=1" width="590" /></a>
+                                        </div>
+                                        <div class="thumbnail-description dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <a href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></a>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/28818c-my-best-ex-boyfriend" data-modal-language="EN 100%"><a href="#" class="js-btn-watchclip" data-block-track="calloutWatchTrailer">Watch Trailer</a></li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+                                            <div>
+                                                <a href="/tv/28818c-my-best-ex-boyfriend" class="thumb-title strong">
+        <span class="moonshine uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1077337v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>My Best Ex-Boyfriend
+                                                </a>
+                                                <div class="grey-text thumb-caption">
+                                                    <span>EN 100%</span>
+                                                    <span class="phs">&bull;</span>
+                                                    China
+                                                </div>
+                                                <span class="strong">9.1</span>
+                                                <i class="icon-star-rounded exclusive"></i>
+                                                <span class="caption info">(163 ratings)</span>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="section no-pad-top info-emphasis">
+                                        <div class="inline-block carousel-channel-manager">
+                                            <a href="/users/serenite78" title="serenite78">
+                                                <img alt="serenite78" class="thumbnail-avatar thumbnail-avatar-tiny va-bottom circle" height="20" src="https://graph.facebook.com/100002190908970/picture?width=20&amp;height=20" width="20" />
+                                                Channel Manager
+                                            </a>
+                                        </div>
+                                        <div class="pull-right">
+                                            15365 Followers
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <h3 class="content-heading">Cast</h3>
+                                        <div class="row-inline" data-block-track="tagResourceCelebrity">
+
+                                            <div itemprop="actor" itemscope="" itemtype="http://schema.org/Person" class="thumbnail col-inline s3">
+                                                <div  class="thumbnail-wrapper">
+                                                    <div>
+                                                        <a itemprop="url" href="/celebrities/10078pr-jerry-yan">
+                                                            <img alt="Jerry Yan" class="responsive-img" height="63" itemprop="image" src="https://0.viki.io/pr/10078pr/b2e08c7202.jpg?x=b&amp;a=0x0&amp;s=220x126&amp;e=t&amp;f=t&amp;cb=1" width="110" />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="thumbnail-description info">
+                                                    <a href="/celebrities/10078pr-jerry-yan" class="thumb-title word-ellipsis"><span itemprop="name">Jerry Yan</span></a>
+                                                </div>
+                                            </div>
+
+                                            <div itemprop="actor" itemscope="" itemtype="http://schema.org/Person" class="thumbnail col-inline s3">
+                                                <div  class="thumbnail-wrapper">
+                                                    <div>
+                                                        <a itemprop="url" href="/celebrities/20814pr-maggie-jiang">
+                                                            <img alt="Maggie Jiang" class="responsive-img" height="63" itemprop="image" src="https://0.viki.io/pr/20814pr/7b1e935c54.jpg?x=b&amp;a=0x0&amp;s=220x126&amp;e=t&amp;f=t&amp;cb=1" width="110" />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="thumbnail-description info">
+                                                    <a href="/celebrities/20814pr-maggie-jiang" class="thumb-title word-ellipsis"><span itemprop="name">Maggie Jiang</span></a>
+                                                </div>
+                                            </div>
+
+                                            <div itemprop="actor" itemscope="" itemtype="http://schema.org/Person" class="thumbnail col-inline s3">
+                                                <div  class="thumbnail-wrapper">
+                                                    <div>
+                                                        <a itemprop="url" href="/celebrities/20455pr-ron-ng">
+                                                            <img alt="Ron Ng" class="responsive-img" height="63" itemprop="image" src="https://0.viki.io/pr/20455pr/d3991c5c68.jpg?x=b&amp;a=0x0&amp;s=220x126&amp;e=t&amp;f=t&amp;cb=1" width="110" />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="thumbnail-description info">
+                                                    <a href="/celebrities/20455pr-ron-ng" class="thumb-title word-ellipsis"><span itemprop="name">Ron Ng</span></a>
+                                                </div>
+                                            </div>
+
+                                            <div itemprop="actor" itemscope="" itemtype="http://schema.org/Person" class="thumbnail col-inline s3">
+                                                <div  class="thumbnail-wrapper">
+                                                    <div>
+                                                        <a itemprop="url" href="/celebrities/17876pr-viola-mi">
+                                                            <img alt="Viola Mi" class="responsive-img" height="63" itemprop="image" src="https://1.viki.io/pr/17876pr/2bc3ce134e.jpg?x=b&amp;a=0x0&amp;s=220x126&amp;e=t&amp;f=t&amp;cb=1" width="110" />
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                                <div class="thumbnail-description info">
+                                                    <a href="/celebrities/17876pr-viola-mi" class="thumb-title word-ellipsis"><span itemprop="name">Viola Mi</span></a>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+
+                            </ul>
+                            <div class="divider"></div>
+                            <div class="section no-pad-bot center-align">
+                                <a class="uppercase" data-block-track="tagMoreLink" href="/tags/33t-begin-your-drama-journey">See all</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 l4">
+                    <h2 class="section-heading hidden hide-on-mobile continue-watching-title">Continue Watching</h2>
+                    <div class="card hidden continue-watching-title">
+                        <div class="card-content hidden" id="recentWatchView" class="mod hidden" data-block-track="recentWatch" data-template="templates/responsive/continue_watch" data-responsive="true">
+            <span id="recentWatch">
+            </span>
+                        </div>
+                    </div>
+
+                    <h2 class="section-heading">
+                        <a class="uppercase content-link" data-block-track="tvPopularMoreLink" href="/explore?sort=viewed">Trending Now</a>
+                    </h2>
+                    <div class="card">
+                        <div class="card-content">
+                            <ul class="media-list" data-block-track="popularList">
+                                <li>
+
+
+
+
+                                    <a href="/tv/22943c-nirvana-in-fire"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="22943c"
+                                       data-tooltip-src="/tooltips/tv/22943.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="22943c"
+                                       data-ep-vidtype="trailers"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="22943c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="Nirvana in Fire " class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/22943c/de548a563a.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/22943c-nirvana-in-fire" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1080865v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Nirvana in Fire
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.6</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(478 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/2978c-scarlet-heart"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="2978c"
+                                       data-tooltip-src="/tooltips/tv/2978.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="2978c"
+                                       data-ep-vidtype="clips"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="2978c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="Scarlet Heart" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/2978/27ad638fd71287f70bc12ec63153121e63ccbf51.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/2978c-scarlet-heart" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Clip</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="146202v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Scarlet Heart
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.7</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(57 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/28818c-my-best-ex-boyfriend"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="28818c"
+                                       data-tooltip-src="/tooltips/tv/28818.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="28818c"
+                                       data-ep-vidtype="trailers"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="28818c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="My Best Ex-Boyfriend" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/28818c/my-best-ex-boyfriend_channel_1560x872.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/28818c-my-best-ex-boyfriend" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1077337v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>My Best Ex-Boyfriend
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.1</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(163 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/27928c-chronicle-of-life"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="27928c"
+                                       data-tooltip-src="/tooltips/tv/27928.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="27928c"
+                                       data-ep-vidtype="trailers"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="27928c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="Chronicle of Life" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/27928c/Chronicle-of-Life_1560x872.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/27928c-chronicle-of-life" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1095372v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Chronicle of Life
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.2</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(208 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/29266c-love-me-if-you-dare"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="29266c"
+                                       data-tooltip-src="/tooltips/tv/29266.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="29266c"
+                                       data-ep-vidtype="trailers"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="29266c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt=" Love Me If You Dare " class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/29266c/love-me-if-you-dare_1560x872.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/29266c-love-me-if-you-dare" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1082826v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span> Love Me If You Dare
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.7</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(2432 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/27846c-the-disguiser"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="27846c"
+                                       data-tooltip-src="/tooltips/tv/27846.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="27846c"
+                                       data-ep-vidtype="clips"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="27846c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="The Disguiser" class="media-object" height="72" itemprop="thumbnailUrl" src="https://0.viki.io/c/27846c/96a9669c0e.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1079513v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>The Disguiser
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.3</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(83 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/30286c-the-three-heroes-and-five-gallants"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="30286c"
+                                       data-tooltip-src="/tooltips/tv/30286.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="30286c"
+                                       data-ep-vidtype="trailers"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="30286c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="The Three Heroes and Five Gallants " class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/30286c/the-three-heroes-and-five-gallants_1560x872.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/30286c-the-three-heroes-and-five-gallants" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1097037v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>The Three Heroes and Five Gallants
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">8.5</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(51 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/5302c-the-empress"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="5302c"
+                                       data-tooltip-src="/tooltips/tv/5302.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="5302c"
+                                       data-ep-vidtype="clips"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="5302c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="The Empress" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/5302c/The-Empress_780x436.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/5302c-the-empress" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Clip</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="149600v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>The Empress
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>Korea</span>
+        <div>
+            <span class="strong">9.0</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(39 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/25705c-legend-of-lu-zhen"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="25705c"
+                                       data-tooltip-src="/tooltips/tv/25705.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="25705c"
+                                       data-ep-vidtype="clips"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="25705c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="Legend of Lu Zhen" class="media-object" data-real="https://1.viki.io/c/25705c/1cafbbab7b.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" height="72" itemprop="thumbnailUrl" src="//0.viki.io/a/pixel-484174b3457ff201f01cf7338a60b1eb.gif" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1052109v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Legend of Lu Zhen
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.2</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(69 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/22593c-mischievous-kiss-love-in-tokyo"
+                                       class="media js-follow-status js-express-player"
+                                       data-tooltip="responsive/callouts/video_tooltip"
+                                       data-tooltip-type="containers"
+                                       data-tooltip-id="22593c"
+                                       data-tooltip-src="/tooltips/tv/22593.json"
+                                       data-tooltip-position="right"
+                                       data-container-id="22593c"
+                                       data-ep-vidtype="trailers"
+                                       data-thumb-type="series"
+                                       data-badge-type="upcomingMedia"
+                                       data-badge-selector-name="media-upcoming"
+                                       data-badge-append-to="media-left"
+                                       data-badge-size="small"
+                                       data-upcoming-episode="22593c"
+                                       data-upcoming-episode-time=""
+                                       data-definitive-coming-soon="false">
+                                        <div class="media-left">
+                                            <img alt="Mischievous Kiss: Love in TOKYO" class="media-object" data-real="https://1.viki.io/c/22593c/4914c8dd9a.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" height="72" itemprop="thumbnailUrl" src="//0.viki.io/a/pixel-484174b3457ff201f01cf7338a60b1eb.gif" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/22593c-mischievous-kiss-love-in-tokyo" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1027821v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Mischievous Kiss: Love in TOKYO
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>Japan</span>
+        <div>
+            <span class="strong">9.5</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(510 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="card-action center-align">
+                            <div class="divider"></div>
+                            <div class="section">
+                                <a class="uppercase" data-block-track="tvPopularMoreLink" href="/explore?sort=viewed">See all</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 l3">
+                    <h2 class="section-heading"><a href="https://subber.viki.com/contributors" class="content-link" data-block-track="communityHomepageSeeAll">Top Volunteers This Week</h2>
+                    <div class="card">
+                        <div class="card-action card-action-attention">
+                            <p class="strong emphasis">All subtitles contributed by volunteers! <a href="/subtitling_community" data-block-track="communityHomepageLearnMore">Learn more</a></p>
+                        </div>
+                        <div class="card-content">
+                            <ul class="media-list" data-block-track="communityHomepage">
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/draaagana">
+                                        <div class="media-left">
+                                            <img alt="4ig562qazf" class="circle media-object" height="60" src="https://0.viki.io/u/517022u/4IG562qazF.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">draaagana</span><br />
+                                            <span class="media-content info">Subtitler</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/kitty100">
+                                        <div class="media-left">
+                                            <img alt="Maqyn4  mk" class="circle media-object" height="60" src="https://0.viki.io/u/8555270u/MAqYn4--MK.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">kitty100</span><br />
+                                            <span class="media-content info">Segmenter</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/simonadeluca_54">
+                                        <div class="media-left">
+                                            <img alt="G5dsfyrzss" class="circle media-object" height="60" src="https://1.viki.io/u/12309448u/g5DSfyrzss.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">simonadeluca_54</span><br />
+                                            <span class="media-content info">Subtitler</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/earsds">
+                                        <div class="media-left">
+                                            <img alt="M2d2qpcvqh" class="circle media-object" height="60" src="https://1.viki.io/u/6781684u/M2D2QPcVqH.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">earsds</span><br />
+                                            <span class="media-content info">Segmenter</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/bettina_samai">
+                                        <div class="media-left">
+                                            <img alt="Ct mo2mv0j" class="circle media-object" height="60" src="https://0.viki.io/u/891673u/Ct_MO2Mv0J.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">bettina_samai</span><br />
+                                            <span class="media-content info">Subtitler</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/sabrinafair">
+                                        <div class="media-left">
+                                            <img alt="Ufehni4hiw" class="circle media-object" height="60" src="https://0.viki.io/u/260381u/UfehNi4hiW.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">sabrinafair</span><br />
+                                            <span class="media-content info">Segmenter</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/skybluebluie_281">
+                                        <div class="media-left">
+                                            <img alt="Picture?width=215&amp;height=215" class="circle media-object" height="60" src="https://graph.facebook.com/10152264069837563/picture?width=215&amp;height=215" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">skybluebluie_281</span><br />
+                                            <span class="media-content info">Subtitler</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/pilar_velasquez">
+                                        <div class="media-left">
+                                            <img alt="Ryx8xw2m5p" class="circle media-object" height="60" src="https://1.viki.io/u/1633596u/rYx8xw2m5p.gif" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">pilar_velasquez</span><br />
+                                            <span class="media-content info">Segmenter</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/daca_daca">
+                                        <div class="media-left">
+                                            <img alt="Default avatar v2" class="circle media-object" height="60" src="https://1.viki.io/a/ph/default_avatar_v2.png" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">daca_daca</span><br />
+                                            <span class="media-content info">Subtitler</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/mihaelagh">
+                                        <div class="media-left">
+                                            <img alt="Xduzxagmgh" class="circle media-object" height="60" src="https://1.viki.io/u/294535u/XDUZxaGMGh.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">mihaelagh</span><br />
+                                            <span class="media-content info">Segmenter</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/hanna_tzuberi">
+                                        <div class="media-left">
+                                            <img alt="Avatar profile" class="circle media-object" height="60" src="https://1.viki.io/a/ph/avatar_profile-acc6c5a5a9d35bd7d292dfd776cfec76.png" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">hanna_tzuberi</span><br />
+                                            <span class="media-content info">Subtitler</span>
+                                        </div>
+                                    </a>                </li>
+                                <li>
+                                    <a class="media" data-block-track="communityHomepageProfile" href="/users/c_scott">
+                                        <div class="media-left">
+                                            <img alt="2i1fsqhowb" class="circle media-object" height="60" src="https://0.viki.io/u/5483054u/2I1fsQHOwb.jpg" width="60" />
+                                        </div>
+                                        <div class="media-body">
+                                            <span class="media-content strong">c_scott</span><br />
+                                            <span class="media-content info">Segmenter</span>
+                                        </div>
+                                    </a>                </li>
+                            </ul>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section recommended-row hidden">
+                <div class="col s12">
+                    <div>
+                        <h2 class="section-heading">Top Picks For You</h2>
+                    </div>
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="row-inline recommended-content" data-recommended-shows-code="1" data-block-track="recommendationHomepageLiftigniter">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section">
+                <div class="col s12">
+                    <div class="tags-carousel hidden" data-tag-list="[&quot;6914t&quot;, &quot;106t&quot;, &quot;39t&quot;, &quot;25t&quot;, &quot;20t&quot;, &quot;6915t&quot;, &quot;89t&quot;, &quot;87t&quot;]" data-template="responsive/tags_homepage_item" data-responsive="true">
+                        <h2 class="section-heading">Collections: Explore By Fan Favorite Topics!</h2>
+                        <div class="card">
+                            <div class="card-content">
+                                <div class="row-inline c-container" data-block-track="curatedTags" data-lazy-component="1">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section">
+                <div class="col s12 l4">
+                    <h2 class="section-heading">
+                        <a class="uppercase content-link" data-block-track="onAirMoreLink" href="/explore?program=on-air">Currently On Air</a>
+                    </h2>
+                    <div class="card">
+                        <div class="card-content">
+                            <ul class="media-list" data-block-track="onAir">
+                                <li>
+
+
+
+
+                                    <a href="/tv/30736c-wind-chime" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="30736c" data-tooltip-src="/tooltips/tv/30736.json" data-tooltip-position="right"data-container-id="30736c" data-ep-vidtype="trailers" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="Wind Chime" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/30736c/Wind-Chime_1560x872.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/30736c-wind-chime" data-modal-language="EN 98%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1096997v" data-watch-now-type="episode" data-watch-now-time="1459958400"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="false"></span>Wind Chime
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 98%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.0</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(34 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/27952c-god-of-war-zhao-yun" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="27952c" data-tooltip-src="/tooltips/tv/27952.json" data-tooltip-position="right"data-container-id="27952c" data-ep-vidtype="trailers" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="God of War, Zhao Yun" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/27952c/2422498b8f.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/27952c-god-of-war-zhao-yun" data-modal-language="EN 94%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1098750v" data-watch-now-type="episode" data-watch-now-time="1459958400"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="false"></span>God of War, Zhao Yun
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 94%</span>
+        <span>&bull;</span>
+        <span>China</span>
+        <div>
+            <span class="strong">9.6</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(68 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/28341c-hello-project-station-hello-sute" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="28341c" data-tooltip-src="/tooltips/tv/28341.json" data-tooltip-position="right"data-container-id="28341c" data-ep-vidtype="clips" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="Hello! Project Station (Hello! Sute)" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/28341c/Hello-Ste_780x436.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1091597v" data-watch-now-type="episode" data-watch-now-time="1459944000"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="false"></span>Hello! Project Station (Hello! Sute)
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>Japan</span>
+        <div>
+            <span class="strong">8.8</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(4 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/24570c-pops-in-seoul" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="24570c" data-tooltip-src="/tooltips/tv/24570.json" data-tooltip-position="right"data-container-id="24570c" data-ep-vidtype="clips" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="Pops in Seoul" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/24570c/c4e7ec87fb.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/24570c-pops-in-seoul" data-modal-language="EN 92%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Clip</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1071785v" data-watch-now-type="episode" data-watch-now-time="1459913457"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="false"></span>Pops in Seoul
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 92%</span>
+        <span>&bull;</span>
+        <span>Korea</span>
+        <div>
+            <span class="strong">8.9</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(39 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/24004c-after-school-club" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="24004c" data-tooltip-src="/tooltips/tv/24004.json" data-tooltip-position="right"data-container-id="24004c" data-ep-vidtype="clips" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="After School Club" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/24004c/1d49d6760a.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/24004c-after-school-club" data-modal-language="EN 81%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Clip</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1061247v" data-watch-now-type="episode" data-watch-now-time="1459914227"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="false"></span>After School Club
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 81%</span>
+        <span>&bull;</span>
+        <span>Korea</span>
+        <div>
+            <span class="strong">9.7</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(94 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/28487c-mv-bank-stardust-season-2" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="28487c" data-tooltip-src="/tooltips/tv/28487.json" data-tooltip-position="right"data-container-id="28487c" data-ep-vidtype="clips" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="MV Bank Stardust Season 2" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/28487c/Music-Video-Bank-Season2_780x436_modified_1.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/28487c-mv-bank-stardust-season-2" data-modal-language="EN 0%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Clip</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1096538v" data-watch-now-type="episode" data-watch-now-time="1459877400"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="false"></span>MV Bank Stardust Season 2
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 0%</span>
+        <span>&bull;</span>
+        <span>Korea</span>
+        <div>
+            <span class="strong">6.9</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(8 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/28342c-upcoming" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="28342c" data-tooltip-src="/tooltips/tv/28342.json" data-tooltip-position="right"data-container-id="28342c" data-ep-vidtype="clips" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="Upcoming" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/28342c/channel.png?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1091607v" data-watch-now-type="episode" data-watch-now-time="1459512000"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="false"></span>Upcoming
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>Japan</span>
+        <div>
+            <span class="strong">10.0</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(2 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </div>
+                        <div class="card-action center-align">
+                            <div class="divider"></div>
+                            <div class="section">
+                                <a class="uppercase" data-block-track="onAirMoreLink" href="/explore?program=on-air">See all</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col s12 l4 tv-guide-widget">
+                    <h2 class="section-heading">
+                        <a class="uppercase content-link" data-block-track="tvGuideHomepageMoreLink" href="/tv-guide">Newly Added Episodes</a>
+                    </h2>
+                    <div class="card">
+                        <div class="container">
+                            <div class="row-inline card-date-container" data-block-track="tvGuideHomepageDateLinks">
+
+                            </div>
+                        </div>
+                        <div class="card-content tv-guide-content center-align info" data-block-track="tvGuideHomepage">
+                            <i class='icon-film display-4'></i><p>No new episodes today. Browse the TV guide for a full list of upcoming episodes.</p>
+                        </div>
+                        <div class="card-action center-align">
+                            <div class="divider"></div>
+                            <div class="section">
+                                <a class="uppercase" data-block-track="tvGuideHomepageMoreLink" href="/tv-guide">See all</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col s12 l4">
+                    <h2 class="section-heading">
+                        <a class="uppercase content-link" data-block-track="upcomingMoreLink" href="/coming_soon">Coming Soon</a>
+                    </h2>
+                    <div class="card">
+                        <div class="card-content">
+                            <ul class="media-list" data-block-track="upcoming">
+                                <li>
+
+
+
+
+                                    <a href="/tv/30052c-secret-love" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="30052c" data-tooltip-src="/tooltips/tv/30052.json" data-tooltip-position="left"data-container-id="30052c" data-ep-vidtype="trailers" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="Secret Love" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/30052c/d190c95c0e.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/30052c-secret-love" data-modal-language="EN 91%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1093447v" data-watch-now-type="episode" data-watch-now-time="1467331200"
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="true"></span>Secret Love
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 91%</span>
+        <span>&bull;</span>
+        <span>Venezuela</span>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li>
+
+
+
+
+                                    <a href="/tv/29149c-dramaworld" class="media js-follow-status js-express-player" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="29149c" data-tooltip-src="/tooltips/tv/29149.json" data-tooltip-position="left"data-container-id="29149c" data-ep-vidtype="trailers" data-thumb-type="series">
+                                        <div class="media-left">
+                                            <img alt="Dramaworld" class="media-object" height="72" itemprop="thumbnailUrl" src="https://1.viki.io/c/29149c/dramaworld_poster_780x436.jpg?x=b&amp;s=256x144&amp;e=t&amp;f=t&amp;cb=1" width="128" />
+                                        </div>
+                                        <div class="dropdown-menu-wrapper">
+                                            <div class="dropdown-toggle">
+                                                <div class="right f-delta" data-drop-down="hidden">
+                                                    <span href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></span>
+                                                    <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                        <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/29149c-dramaworld" data-modal-language="EN 100%">
+                                                            <span href="#" class="js-btn-watchclip menu-item" data-block-track="calloutWatchTrailer">Watch Trailer</span>
+                                                        </li>
+                                                        <li class="follow-status"></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="media-body" >
+                                            <h1 class="media-heading strong">
+        <span class="uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="" data-watch-now-type="" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="true" data-definitive-coming-soon="true"></span>Dramaworld
+                                            </h1>
+      <span class="media-content grey-text base">
+        <span>EN 100%</span>
+        <span>&bull;</span>
+        <span>United States</span>
+        <div>
+            <span class="strong">9.7</span>
+            <i class="icon-star-rounded exclusive"></i>
+            <span class="caption info">(61 ratings)</span>
+        </div>
+      </span>
+                                        </div>
+                                    </a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section vkal-news-module">
+                <div class="col s12">
+                    <div>
+                        <h2 class="section-heading">Latest News</h2>
+                    </div>
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="row">
+                                <div class="col s12">
+                                    <div class="row-inline news-media-list" data-block-track="newsItem">
+                                        <div class="col-inline s12 l4 va-top ">
+                                            <div class="media vkal-news-item" data-vkal-section="news-item">
+                                                <a href="/outbound?url=http%3A%2F%2Fwww.soompi.com%2F2016%2F04%2F06%2Fwatch-exids-hani-and-got7s-jackson-show-off-their-sibling-like-relationship-onweekly-idol%2F%3Futm_source%3Dviki%26utm_medium%3Dnewsmodule-homepage-web%26utm_campaign%3Dsoompi_news_module%26utm_content%3Dhomepage" target="_blank">
+                                                    <div class="media-left">
+                                                        <img alt="Watch: EXID’s Hani and GOT7′s Jackson Show Off Their Sibling-Like Relationship on”Weekly Idol”" class="media-object" height="80" itemprop="thumbnailUrl" src="http://0.soompi.io/wp-content/uploads/2016/04/06232629/hani-jackson-2-140x140.jpg" width="80" />
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <h1 class="media-heading strong">
+                                                            Watch: EXID’s Hani and GOT7′s Jackson Show Off Their Sibling-Like Relationship on”Weekly Idol”
+                                                        </h1>
+                                                        <p class="info" data-time-ago="1459985189"></p>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="media vkal-news-item" data-vkal-section="news-item">
+                                                <a href="/outbound?url=http%3A%2F%2Fwww.soompi.com%2F2016%2F04%2F06%2Fmin-hyo-rin-reveals-park-jin-youngs-promise-to-her-for-unnis-slam-dunk%2F%3Futm_source%3Dviki%26utm_medium%3Dnewsmodule-homepage-web%26utm_campaign%3Dsoompi_news_module%26utm_content%3Dhomepage" target="_blank">
+                                                    <div class="media-left">
+                                                        <img alt="Min Hyo Rin Reveals Park Jin Young’s Promise to Her for “Unni’s Slam Dunk”" class="media-object" height="80" itemprop="thumbnailUrl" src="http://0.soompi.io/wp-content/uploads/2016/04/06131030/min-hyo-rin-140x140.jpg" width="80" />
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <h1 class="media-heading strong">
+                                                            Min Hyo Rin Reveals Park Jin Young’s Promise to Her for “Unni’s Slam Dunk”
+                                                        </h1>
+                                                        <p class="info" data-time-ago="1459981612"></p>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-inline s12 l4 va-top ">
+                                            <div class="media vkal-news-item" data-vkal-section="news-item">
+                                                <a href="/outbound?url=http%3A%2F%2Fwww.soompi.com%2F2016%2F04%2F06%2Fhwang-chi-yeol-and-gummy-to-perform-descendants-of-the-sun-ost-as-a-duet%2F%3Futm_source%3Dviki%26utm_medium%3Dnewsmodule-homepage-web%26utm_campaign%3Dsoompi_news_module%26utm_content%3Dhomepage" target="_blank">
+                                                    <div class="media-left">
+                                                        <img alt="Hwang Chi Yeol and Gummy to Perform “Descendants of the Sun” OST as a Duet" class="media-object" height="80" itemprop="thumbnailUrl" src="http://0.soompi.io/wp-content/uploads/2016/04/06104911/hwang-chi-yeol-gummy-140x140.jpg" width="80" />
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <h1 class="media-heading strong">
+                                                            Hwang Chi Yeol and Gummy to Perform “Descendants of the Sun” OST as a Duet
+                                                        </h1>
+                                                        <p class="info" data-time-ago="1459965190"></p>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="media vkal-news-item" data-vkal-section="news-item">
+                                                <a href="/outbound?url=http%3A%2F%2Fwww.soompi.com%2F2016%2F04%2F06%2Fikons-jinhwan-cries-as-mari-and-me-cast-says-goodbye-in-final-episode%2F%3Futm_source%3Dviki%26utm_medium%3Dnewsmodule-homepage-web%26utm_campaign%3Dsoompi_news_module%26utm_content%3Dhomepage" target="_blank">
+                                                    <div class="media-left">
+                                                        <img alt="Watch: iKON’s Jinhwan Cries as “Mari and Me” Cast Says Goodbye in Final Episode" class="media-object" height="80" itemprop="thumbnailUrl" src="http://0.soompi.io/wp-content/uploads/2016/04/06101240/jinhwan-140x140.png" width="80" />
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <h1 class="media-heading strong">
+                                                            Watch: iKON’s Jinhwan Cries as “Mari and Me” Cast Says Goodbye in Final Episode
+                                                        </h1>
+                                                        <p class="info" data-time-ago="1459962965"></p>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                        <div class="col-inline s12 l4 va-top media-last">
+                                            <div class="media vkal-news-item" data-vkal-section="news-item">
+                                                <a href="/outbound?url=http%3A%2F%2Fwww.soompi.com%2F2016%2F04%2F06%2Fyoo-ah-in-makes-much-anticipated-cameo-on-descendants-of-the-sun%2F%3Futm_source%3Dviki%26utm_medium%3Dnewsmodule-homepage-web%26utm_campaign%3Dsoompi_news_module%26utm_content%3Dhomepage" target="_blank">
+                                                    <div class="media-left">
+                                                        <img alt="Yoo Ah In Makes Much-Anticipated Cameo on “Descendants of the Sun”" class="media-object" height="80" itemprop="thumbnailUrl" src="http://0.soompi.io/wp-content/uploads/2016/04/06092944/yoo-ah-in-descendants-2-140x140.png" width="80" />
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <h1 class="media-heading strong">
+                                                            Yoo Ah In Makes Much-Anticipated Cameo on “Descendants of the Sun”
+                                                        </h1>
+                                                        <p class="info" data-time-ago="1459960837"></p>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div class="media vkal-news-item" data-vkal-section="news-item">
+                                                <a href="/outbound?url=http%3A%2F%2Fwww.soompi.com%2F2016%2F04%2F06%2Fji-soo-to-portray-park-shin-hyes-first-love-in-doctors%2F%3Futm_source%3Dviki%26utm_medium%3Dnewsmodule-homepage-web%26utm_campaign%3Dsoompi_news_module%26utm_content%3Dhomepage" target="_blank">
+                                                    <div class="media-left">
+                                                        <img alt="Ji Soo to Portray Park Shin Hye’s First Love in “Doctors”" class="media-object" height="80" itemprop="thumbnailUrl" src="http://www.soompi.com/wp-content/uploads/2015/11/ji-soo1-140x140.jpg" width="80" />
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <h1 class="media-heading strong">
+                                                            Ji Soo to Portray Park Shin Hye’s First Love in “Doctors”
+                                                        </h1>
+                                                        <p class="info" data-time-ago="1459956772"></p>
+                                                    </div>
+                                                </a>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="card-action center-align">
+                            <div class="divider"></div>
+                            <div class="section">
+                                <a class="uppercase vkal-home-soompi-more" data-block-track="newsMoreLink" data-vkal-section="home-soompi-more" href="/outbound?url=http%3A%2F%2Fwww.soompi.com%2Fcategory%2Ftvfilm%2F%3Futm_source%3Dviki%26utm_medium%3Dnewsmodule-homepage-web%26utm_campaign%3Dsoompi_news_module%26utm_content%3Dhomepage" target="_blank">See all</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section">
+                <div class="col s12">
+                    <div class="countries-carousel hidden">
+                        <div>
+                            <h2 class="section-heading">
+                                <a href="/countries" class="uppercase content-link" data-block-track="popularCountriesMoreLink">Explore by Region</a>
+                            </h2>
+                        </div>
+                        <div class="card">
+                            <div class="card-content">
+                                <div class="row-inline c-container" data-lazy-component="1" data-block-track="popularCountries">
+                                    <div class="thumbnail col-inline s6 m6 l3" data-country-code="kr" data-country-template="responsive/explore_home_countries"></div>
+                                    <div class="thumbnail col-inline s6 m6 l3" data-country-code="tw" data-country-template="responsive/explore_home_countries"></div>
+                                    <div class="thumbnail col-inline s6 m6 l3" data-country-code="cn" data-country-template="responsive/explore_home_countries"></div>
+                                    <div class="thumbnail col-inline s6 m6 l3" data-country-code="jp" data-country-template="responsive/explore_home_countries"></div>
+                                </div>
+                            </div>
+                            <div class="card-action center-align">
+                                <div class="divider"></div>
+                                <div class="section">
+                                    <a href="/countries" class="uppercase" data-block-track="popularCountriesMoreLink">See all</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section">
+                <div class="col s12">
+                    <h2 class="section-heading">
+                        <a class="uppercase content-link" data-block-track="vikiExclusiveMoreLink" href="/exclusives">Viki Exclusives</a>
+                    </h2>
+                    <div class="card">
+                        <div class="card-content">
+                            <div class="row-inline" data-block-track="vikiExclusives">
+
+                                <div class="thumbnail col-inline s6 m6 l3 js-follow-status js-express-player" data-container-id="28714c" data-ep-vidtype="clips" data-thumb-type="series" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="28714c" data-tooltip-src="/tooltips/tv/28714.json" data-tooltip-position="right">
+                                    <div class="thumbnail-wrapper">
+                                        <a href="/tv/28714c-a-wok-through-time"><img alt="A Wok Through Time" class="responsive-img" height="107" src="https://1.viki.io/c/28714c/a-wok-through-time_channel_1560x872_(1).jpg?x=b&amp;s=380x214&amp;q=h&amp;e=t&amp;f=t&amp;cb=1" width="190" />
+                                        </a>
+
+                                    </div>
+                                    <div class="thumbnail-description dropdown-menu-wrapper">
+                                        <div class="dropdown-toggle">
+                                            <div class="right f-delta" data-drop-down="hidden">
+                                                <a href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></a>
+                                                <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                    <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/28714c-a-wok-through-time" data-modal-language="EN 100%"><a href="#" class="js-btn-watchclip" data-block-track="calloutWatchTrailer">Watch Clip</a></li>
+                                                    <li class="follow-status"></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div>
+                                            <a href="/tv/28714c-a-wok-through-time" class="thumb-title strong">
+        <span class="moonshine uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1078343v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>A Wok Through Time
+                                            </a>
+                                            <div class="grey-text thumb-caption">
+                                                <span>EN 100%</span>
+                                                <span class="phs">&bull;</span>
+                                                Taiwan
+                                            </div>
+                                            <span class="strong">7.8</span>
+                                            <i class="icon-star-rounded exclusive"></i>
+                                            <span class="caption info">(6 ratings)</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="thumbnail col-inline s6 m6 l3 js-follow-status js-express-player" data-container-id="26974c" data-ep-vidtype="trailers" data-thumb-type="series" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="26974c" data-tooltip-src="/tooltips/tv/26974.json" data-tooltip-position="right">
+                                    <div class="thumbnail-wrapper">
+                                        <a href="/tv/26974c-innocent-lilies-2"><img alt="Innocent Lilies 2" class="responsive-img" height="107" src="https://0.viki.io/c/26974c/c66ddfde1c.jpg?x=b&amp;s=380x214&amp;q=h&amp;e=t&amp;f=t&amp;cb=1" width="190" />
+                                        </a>
+
+                                    </div>
+                                    <div class="thumbnail-description dropdown-menu-wrapper">
+                                        <div class="dropdown-toggle">
+                                            <div class="right f-delta" data-drop-down="hidden">
+                                                <a href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></a>
+                                                <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                    <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/26974c-innocent-lilies-2" data-modal-language="EN 100%"><a href="#" class="js-btn-watchclip" data-block-track="calloutWatchTrailer">Watch Trailer</a></li>
+                                                    <li class="follow-status"></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div>
+                                            <a href="/tv/26974c-innocent-lilies-2" class="thumb-title strong">
+        <span class="moonshine uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1069735v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Innocent Lilies 2
+                                            </a>
+                                            <div class="grey-text thumb-caption">
+                                                <span>EN 100%</span>
+                                                <span class="phs">&bull;</span>
+                                                Japan
+                                            </div>
+                                            <span class="strong">8.0</span>
+                                            <i class="icon-star-rounded exclusive"></i>
+                                            <span class="caption info">(23 ratings)</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="thumbnail col-inline s6 m6 l3 js-follow-status js-express-player" data-container-id="25807c" data-ep-vidtype="clips" data-thumb-type="series" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="25807c" data-tooltip-src="/tooltips/tv/25807.json" data-tooltip-position="right">
+                                    <div class="thumbnail-wrapper">
+                                        <a href="/tv/25807c-be-arrogant"><img alt="Be Arrogant" class="responsive-img" height="107" src="https://1.viki.io/c/25807c/6dbac44571.jpg?x=b&amp;s=380x214&amp;q=h&amp;e=t&amp;f=t&amp;cb=1" width="190" />
+                                        </a>
+
+                                    </div>
+                                    <div class="thumbnail-description dropdown-menu-wrapper">
+                                        <div class="dropdown-toggle">
+                                            <div class="right f-delta" data-drop-down="hidden">
+                                                <a href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></a>
+                                                <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                    <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/25807c-be-arrogant" data-modal-language="EN 100%"><a href="#" class="js-btn-watchclip" data-block-track="calloutWatchTrailer">Watch Clip</a></li>
+                                                    <li class="follow-status"></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div>
+                                            <a href="/tv/25807c-be-arrogant" class="thumb-title strong">
+        <span class="moonshine uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="1053811v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Be Arrogant
+                                            </a>
+                                            <div class="grey-text thumb-caption">
+                                                <span>EN 100%</span>
+                                                <span class="phs">&bull;</span>
+                                                Korea
+                                            </div>
+                                            <span class="strong">8.4</span>
+                                            <i class="icon-star-rounded exclusive"></i>
+                                            <span class="caption info">(97 ratings)</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="thumbnail col-inline s6 m6 l3 js-follow-status js-express-player" data-container-id="7468c" data-ep-vidtype="clips" data-thumb-type="series" data-tooltip="responsive/callouts/video_tooltip" data-tooltip-type="containers" data-tooltip-id="7468c" data-tooltip-src="/tooltips/tv/7468.json" data-tooltip-position="right">
+                                    <div class="thumbnail-wrapper">
+                                        <a href="/tv/7468c-leiji-matsumotos-ozma"><img alt="Leiji Matsumoto&#39;s OZMA " class="responsive-img" height="107" src="https://1.viki.io/c/7468/b68bca2c3c7812eca53102f17864eb2ab57066f6.jpg?x=b&amp;s=380x214&amp;q=h&amp;e=t&amp;f=t&amp;cb=1" width="190" />
+                                        </a>
+
+                                    </div>
+                                    <div class="thumbnail-description dropdown-menu-wrapper">
+                                        <div class="dropdown-toggle">
+                                            <div class="right f-delta" data-drop-down="hidden">
+                                                <a href="#" class="more-info-link" data-drop-down-handler="1" data-block-track="moreInfo"><i class="icon-more right"></i></a>
+                                                <ul data-drop-down-target="share" class="dropdown-menu menu-right hidden">
+                                                    <li class="express-player" data-modal="data-modal-trailers" data-modal-watch-now="/tv/7468c-leiji-matsumotos-ozma" data-modal-language="EN 100%"><a href="#" class="js-btn-watchclip" data-block-track="calloutWatchTrailer">Watch Clip</a></li>
+                                                    <li class="follow-status"></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+
+                                        <div>
+                                            <a href="/tv/7468c-leiji-matsumotos-ozma" class="thumb-title strong">
+        <span class="moonshine uppercase" data-badge-type="labels" data-badge-size="small" data-watch-now-episode="175940v" data-watch-now-type="episode" data-watch-now-time=""
+              data-watch-now-on-air="false" data-watch-coming-soon="false" data-new-no-show="false" data-thumbnail-type="series"data-definitive-on-air="false" data-definitive-coming-soon="false"></span>Leiji Matsumoto&#39;s OZMA
+                                            </a>
+                                            <div class="grey-text thumb-caption">
+                                                <span>EN 100%</span>
+                                                <span class="phs">&bull;</span>
+                                                Japan
+                                            </div>
+                                            <span class="strong">8.0</span>
+                                            <i class="icon-star-rounded exclusive"></i>
+                                            <span class="caption info">(4 ratings)</span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="card-action center-align">
+                            <div class="divider"></div>
+                            <div class="section">
+                                <a class="uppercase" data-block-track="vikiExclusiveMoreLink" href="/exclusives">See all</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section">
+                <div class="col s12">
+                    <div class="networks-carousel hidden" data-mini-carousel="true">
+                        <h2 class="section-heading">
+                            <a href="/networks" class="uppercase content-link" data-block-track="networksMoreLink">Featured Networks</a>
+                        </h2>
+                        <div class="card">
+                            <div class="card-content mini-carousel-wrapper" data-lazy-component="1" data-block-track="networks" data-component-url="/networks.json" data-component-templ="responsive/networks" data-component-canvas="1">
+                                <div class="row-inline c-container" data-component-canvas="1">
+
+                                </div>
+                            </div>
+                            <div class="card-action center-align">
+                                <div class="divider"></div>
+                                <div class="section">
+                                    <a href="/networks" class="uppercase" data-block-track="networksMoreLink">See all</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row section">
+                <div class="col s12">
+
+                    <div class="center-align">
+                        <div data-block-track="dfpLeaderboard_vikipass">
+                            <div id='div-gpt-ad-1390467547576-0' class='mod mod-advertisement mod-advertisement-narrow'>
+                                <span class="mod-advertisement-label">Advertisement</span>
+
+                            </div>
+                            <script type='text/javascript'>
+                                $(document).ready(function(){
+                                    var userStatus = raynor.utility.getUserStatus();
+                                    var lb;
+                                    var mapping;
+                                    googletag.cmd.push(function() {
+                                        mapping = googletag.sizeMapping().
+                                        addSize([1050, 200], [[950, 90],[950, 92]]).
+                                        addSize([980, 690], [728, 90]).
+                                        addSize([480, 400], [[320, 100], [320, 50]]).
+                                        addSize([0, 0],[[320, 100], [320, 50]]).
+                                        build();
+                                        lb = googletag.defineSlot('/50449293/Display.Home.950x92', [[950, 92], [950, 90], [728, 90], [320, 50],[320, 100]], 'div-gpt-ad-1390467547576-0').
+                                        setCollapseEmptyDiv(true).
+                                        defineSizeMapping(mapping).
+                                        addService(googletag.pubads());
+                                        googletag.pubads().enableSingleRequest();
+                                        googletag.pubads().setTargeting("user_status", userStatus);
+                                        googletag.enableServices();
+                                        googletag.display('div-gpt-ad-1390467547576-0');
+                                        setInterval(function () {googletag.pubads().refresh([lb]);}, 180000);
+                                    });
+                                });
+                            </script>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div id="div-gpt-ad-1413865793629-0"></div>
+
+
+
+</div>
+
+<!-- Need to cache this later -->
+<footer class="page-footer">
+    <div class="container" data-block-track="footerLinks">
+        <div class="row">
+            <div class="col s12 m6 l4">
+                <div class="row">
+                    <div class="col s6">
+                        <h3 class="page-footer-heading"><a href="/about">Company</a></h3>
+                        <ul class="page-footer-nav-links">
+                            <li><a href="/about">About Us</a></li>
+                            <li><a href="/press">Press Center</a></li>
+                            <li><a href="http://blog.viki.com">Viki Blog</a></li>
+                            <li><a href="https://viki.spreadshirt.com?r=header">Viki Store</a></li>
+                            <li><a href="/jobs">Work For Us <span class="badge moonshine-pink white-text">We&#39;re Hiring</span></a></li>
+                        </ul>
+                        <h3 class="page-footer-heading"><a href="https://www.viki.com/pass?origin=footer">Products</a></h3>
+                        <ul class="page-footer-nav-links">
+                            <li><a href="https://www.viki.com/pass?origin=footer">Viki Pass</a></li>
+                            <li><a href="/apps">Viki Apps</a></li>
+                            <li><a data-block-track="footerSoompi" href="/outbound?url=http%3A%2F%2Fwww.soompi.com">Soompi</a></li>
+                        </ul>
+                    </div>
+                    <div class="col s6">
+                        <h3 class="page-footer-heading"><a href="/community">Community</a></h3>
+                        <ul class="page-footer-nav-links">
+                            <li><a href="/community">Community</a></li>
+                            <li><a href="https://discussions.viki.com">Discussions</a></li>
+                            <li><a href="/volunteer">Volunteer</a></li>
+                            <li><a href="http://subber.viki.com/contributors">Volunteer Finder</a></li>
+                            <li><a href="http://subber.viki.com/project_finder">Project Finder</a></li>
+                            <li><a href="/endangeredlanguages">Endangered Languages</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m6 l4">
+                <div class="row">
+                    <div class="col s6">
+                        <h3 class="page-footer-heading"><a href="/partners">Partners</a></h3>
+                        <ul class="page-footer-nav-links">
+                            <li><a href="/partners">Content Partners</a></li>
+                            <li><a href="/networks">Distribution Partners</a></li>
+                            <li><a href="/advertise">Advertisers</a></li>
+                            <li><a href="http://dev.viki.com">Developers</a></li>
+                            <li><a href="/producersportal"><span class="translation_missing" title="translation missing: en.footer.producers_portal">Producers Portal</span></a></li>
+                        </ul>
+                    </div>
+                    <div class="col s6">
+                        <h3 class="page-footer-heading"><a href="/zendesk/login">Support</a></h3>
+                        <ul class="page-footer-nav-links"><li><a href="/zendesk/login">Help Center</a></li></ul>
+                        <h3 class="page-footer-heading"><a href="/terms_of_use">Legal</a></h3>
+                        <ul class="page-footer-nav-links">
+                            <li><a href="/terms_of_use">Terms Of Use</a></li>
+                            <li><a href="/privacy">Privacy Policy</a></li>
+                            <li><a href="/copyright">Intellectual Property Policy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col s12 m8 l3 offset-l1">
+                <p class="page-footer-brand">
+                    <a href="/" class="left">Viki</a>
+                    <br>
+                </p>
+                <p>Viki is a global TV site, where millions of people watch their favorite shows, movies, celebrity news and more — subtitled into 200+ languages by a community of avid fans.</p>
+                <ul class="page-footer-social clearfix" data-block-track="footerSocial">
+                    <li><a href="http://www.facebook.com/viki" class="social-facebook circle" title="Follow Viki on Facebook" target="_blank"><i class="icon-facebook"></i></a></li>
+                    <li><a href="https://twitter.com/Viki" class="social-twitter circle" title="Follow Viki on Twitter" target="_blank"><i class="icon-twitter"></i></a></li>
+                    <li><a href="https://www.instagram.com/viki/" class="social-instagram circle" title="Follow Viki on Instagram" target="_blank"><i class="icon-instagram"></i></a></li>
+                    <li><a href="https://www.google.com/+vikiofficial" class="social-google circle" rel="publisher" title="Follow Viki on Google Plus" target="_blank"><i class="icon-google"></i></a></li>
+                    <li><a href="https://www.pinterest.com/Viki/" class="social-pinterest circle" title="Follow Viki on Pinterest" target="_blank"><i class="icon-pinterest"></i></a></li>
+            </div>
+        </div>
+    </div>
+    </div>
+</footer>
+
+
+<div class="page-colophon" data-block-track="colophon">
+    <div class="container clearfix">
+        <div class="row">
+            <div class="col s6 m6 page-colophon-copyright">
+                © 2016 <a href="/">Viki Inc</a>. <a href="http://www.rakuten.com/" target="_blank">A Rakuten Company</a>. All rights reserved.
+            </div>
+
+            <div class="col s12 m6" data-block-track="languageSelector">
+                <div class="right">
+                    <i class="icon-globe icon-small"></i>
+                    <span>Languages:</span>
+                    <div class="dropdown-menu-wrapper inline-block" data-drop-down="hidden" data-drop-down-no-hide='1'>
+                        <a href="#" data-drop-down-handler="1">
+                            English
+                            <i class="icon-caret-up icon-small"></i>
+                        </a>
+                        <ul data-drop-down-target="share" class="dropdown-menu dropdown-menu-top menu-right hidden">
+                            <li><a class="first-child" href="/?locale=en" rel="nofollow" title="English"> English</a></li>
+                            <li><a href="/?locale=es" rel="nofollow" title="Español"> Español</a></li>
+                            <li><a href="/?locale=ja" rel="nofollow" title="日本語"> 日本語</a></li>
+                            <li><a href="/?locale=fr" rel="nofollow" title="Français"> Français</a></li>
+                            <li><a href="/?locale=zh-cn" rel="nofollow" title="简体中文"> 简体中文</a></li>
+                            <li><a href="/?locale=zh-tw" rel="nofollow" title="繁體中文"> 繁體中文</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+  <span data-block-track="clientSideLoginForms">
+    <form accept-charset="UTF-8" action="/auth_clientside" id="clientsideLoginForm" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+        <input id="clientside_login_token" name="clientside_login_token" type="hidden" />
+        <input id="clientside_login_type" name="clientside_login_type" type="hidden" />
+    </form>
+    <form accept-charset="UTF-8" action="/auth_facebook" id="loginFbForm" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+        <input id="facebook_token" name="facebook_token" type="hidden" />
+    </form>  </span>
+
+<form accept-charset="UTF-8" action="/auth_google_plus" id="loginGoogleForm" method="post"><div style="display:none"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+    <input id="google_token" name="google_token" type="hidden" />
+</form>
+<div id="modal-backdrop" class="invisible"></div>
+
+<div data-block-track="openModal">
+
+</div>
+
+<div id="fb-root"></div>
+
+<a href="#" data-modal="data-modal-favorite" class="hidden" data-block-track="modalClose"></a>
+<div id="data-modal-favorite" data-responsive="true" class="modal modal-favorite invisible" data-block-track="favoriteModal">
+    <div class="modal-container center-align">
+        <div class="modal-content">
+            <i class="icon-x modal-close track-ga-event right" data-modal-action="close" data-category="favorite-modal" data-action="close"></i>
+            <div class="container">
+                <div class="modal-body center-align">
+                    <h2 class="display-1">Want to favorite this?</h2>
+                    <p>Sign up to create a collection of your favorite shows to watch again. It&#39;s easy and FREE!</p>
+                    <a href="#" class="btn btn-block btn-facebook track-ga-event" data-fb-login="1" data-category="modalRegister" data-action="facebook">
+                        <i class="icon-facebook"></i> Facebook
+                    </a>
+                    <a href="#" class="btn btn-block btn-google track-ga-event googleLoginBtn" data-google-login="1" data-category="modalRegister" data-action="google">
+                        <i class="icon-google"></i> Google
+                    </a>
+                    <a href="/sign_up" class="btn btn-block btn-email btn-primary btn-primary-contour track-ga-event" data-category="modalRegister" data-action="sign_up">
+                        Email
+                    </a>
+          <span class="center-align">
+            Already have an account?
+            <a href="/sign_in" title="Sign in here" class="track-ga-event" data-category="modalRegister" data-action="sign_in" >
+                Sign in here
+            </a>
+          </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="data-modal-trailers" data-responsive="true" class="modal modal-wide" data-block-track="calloutModal">
+    <div class="modal-container">
+        <div class="modal-content">
+            <div class="container">
+                <div class="modal-header left-align">
+                    <i class="icon-x modal-close right" data-block-track="calloutModalTitle" data-modal-action='close'></i>
+                    <h4 class="display-1 content-link"></h4>
+                    <div class="base-text clip-language"></div>
+                </div>
+
+                <div class="modal-body left-align">
+                    <div class="js-clip-thumbnail modal-video-thumbnail">
+                        <i class="thumb-play-poster thumb-play-shown"></i>
+                    </div>
+                    <div class="js-clip-placeholder modal-video-placeholder video-container"></div>
+                    <div class="modal-action clearfix"><a href="" class="btn btn-accent right clip-watch-now hidden">Watch Now</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<a href="#" data-modal="data-modal-review" class="hidden" data-block-track="modalClose"></a>
+<div id="data-modal-review" data-responsive="true" class="modal modal-review invisible" data-block-track="reviewModal">
+    <div class="modal-container center-align">
+        <div class="modal-content">
+            <i class="icon-x modal-close track-ga-event right" data-modal-action="close" data-category="review-modal" data-action="close"></i>
+            <div class="container">
+                <div class="modal-body center-align">
+                    <h2 class="display-1">Want to review this??</h2>
+                    <p>Sign up to rate and review your favourite shows. It&#39;s easy and FREE!</p>
+                    <a href="#" class="btn btn-block btn-facebook track-ga-event" data-fb-login="1" data-category="modalRegister" data-action="facebook">
+                        <i class="icon-facebook"></i> Facebook
+                    </a>
+                    <a href="#" class="btn btn-block btn-google track-ga-event googleLoginBtn" data-google-login="1" data-category="modalRegister" data-action="google">
+                        <i class="icon-google"></i> Google
+                    </a>
+                    <a href="/sign_up" class="btn btn-block btn-email btn-primary btn-primary-contour track-ga-event" data-category="modalRegister" data-action="sign_up">
+                        Email
+                    </a>
+          <span class="center-align">
+            Already have an account?
+            <a href="/sign_in" title="Sign in here" class="track-ga-event" data-category="modalRegister" data-action="sign_in" >
+                Sign in here
+            </a>
+          </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="subtitle-tray" rel="popover-tray" class="popover-tray-subtitle popover-tray popover-right-down pos-fix hide-on-mobile invisible" data-block-track="oneLiner">
+    <div class='new-feature new-feature-v2 invisible'>
+    </div>
+    <div rel="popover-target" class="popover invisible">
+        <div class="popover-content content"></div>
+        <div class="popover-arrow"></div>
+    </div>
+    <div id="subtitle-popover" rel="popover-open" class="popover-trigger-subtitle">
+        <i class="img-character-inverse"></i>
+    </div>
+</div>
+
+<script type="text/javascript">
+
+    var disqus_config = function () {
+        this.language = 'en';
+        this.page.title = document.title;
+    };
+</script>
+
+<script type="text/javascript">
+    window.countryCode = 'SG';
+    raynor.session.signed_in = false;
+    raynor.session.content_lang = {"code":"en","name":"English · English"};
+    raynor.session.can_manage = false;
+    raynor.session.can_manage_team = false;
+
+</script>
+
+
+<script>
+    //<![CDATA[
+    window.applicationLoadErrorCheck = false;
+    function checkApplicationLoadError(){
+        if (window.applicationLoadErrorCheck == true) { return; }
+        window.applicationLoadErrorCheck = true;
+        if(window.raynor.init === undefined) {
+            _gaq.push(['_trackEvent', 'corsError', 'not_loaded_application_'+ window.vikiGeoCode, window.location.href]);
+            var appTag = '<scr'+'ipt src="/a/application-5ce974e5bfb7d9e6a26f8c7fa8b59b4a.js"></scr'+'ipt>';
+            $("body").append(appTag);
+        };
+    };
+
+    //]]>
+</script><script src="https://1.viki.io/a/application-5ce974e5bfb7d9e6a26f8c7fa8b59b4a.js" onload="checkApplicationLoadError()" onerror="checkApplicationLoadError()"></script>
+
+<script src="//js.honeybadger.io/v0.2/honeybadger.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+    Honeybadger.configure({
+        api_key: 'cb77624a7963d573893bc2b6f4cc29de',
+        environment: 'production'
+    });
+</script>
+
+<script type="text/javascript">
+    (function () {
+        function async_load(script_url) {
+            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+            var s = document.createElement('script');
+            s.src = protocol + script_url;
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        }
+
+        bm_website_code = '18E29BCCFEB54BE1';
+
+        $(document).ready(function () {
+            async_load('asset.pagefair.com/measure.min.js')
+        });
+        $(document).ready(function () {
+            async_load('asset.pagefair.net/ads.min.js')
+        });
+    })();
+</script>
+
+<script type="text/javascript">
+    window.rootUrl = 'https://www.viki.com/';
+    window.sslRootUrl = 'https://www.viki.com';
+    window.nonSslRootUrl = 'http://www.viki.com';
+    window.subscriptionsPath = '/subscriptions.json';
+    window.sessionUrl = 'https://api.viki.io/v5/sessions.json?app=100000a';
+    I18n.defaultLocale = 'en';
+    I18n.locale = 'en';
+    I18n.available_locales = '[:en, :es, :fr, :ja, :zh, :zt]';
+    window.user_locale = 'en';
+    window.appVersion = '13492.fa9ed95e6b3e695d096292bdea65cc8f0fe789f7';
+    window.appId = '100000a';
+    window.cur_a = "home_show";
+    window.rakutenOpenIDConsumer = "viki01";
+
+    Viki.apiURL = '//api.viki.io/v4/';
+
+    window.experimentURL = 'https://turing.viki.io/v4/settings.json';
+
+    Viki.language = 'en';
+    window.vpTrialDuration = 259200000;
+    window.vpExperimentStart = 1393837200;
+    window.vpExperimentStop = 1426669200;
+    raynor.init();
+</script>
+
+<script type="text/javascript">
+    if (raynor.session.user_token){
+        window.sessionUrl = window.sessionUrl + "&token=" + raynor.session.user_token;
+    }
+</script>
+
+
+<script src="/google-ad-block-test-googleadservices-gpt-pubads.js"></script>
+
+
+
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function () {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+
+    _qevents.push({
+        qacct: "p-CnyzJULM5GHhz"
+    });
+</script>
+
+<noscript>
+    <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-CnyzJULM5GHhz.gif" border="0" height="1" width="1"/>
+    </div>
+</noscript>
+
+
+<script type="text/javascript">
+    (function(w,d,s,p,v,e,r) {w['$igniter_var']=v;w[v]=w[v]||function(){(w[v].q=w[v].q||[]).push(
+                    arguments)};w[v].l=1*new Date();e=d.createElement(s),r=d.getElementsByTagName(s)[0];e.async=1;
+        e.src=p+'?ts='+(+new Date()/3600000|0);
+        r.parentNode.insertBefore(e,r)})(window,document,'script','//cdn.petametrics.com/b40e7og6j6l7mg77.js','$p');
+
+    $p("init", "b40e7og6j6l7mg77");
+    $p("send", "pageview");
+</script>
+
+<script>
+    ga('create', 'UA-1670373-25', 'auto', {'name': 'referral_t'});
+    ga('referral_t.send', 'pageview');
+</script>
+
+<script type="text/javascript" src="//tags.mediaforge.com/js/4149"></script>
+
+</body>
+</html>

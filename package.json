@@ -1,0 +1,45 @@
+{
+  "name": "vk-jonathan-klughertz",
+  "version": "1.0.0",
+  "description": "Duplicate Content Check",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "cheerio": "^0.20.0",
+    "filendir": "^1.0.0",
+    "momentjs": "^1.0.2",
+    "request": "^2.70.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.6.5",
+    "babel-core": "^6.7.4",
+    "babel-preset-es2015": "^6.6.0",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "mocha": "^2.4.5"
+  },
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha --compilers js:babel-core/register 'test/**/*.@(js)'",
+    "test:watch": "npm run test -- --watch",
+    "lint": "node node_modules/eslint/bin/eslint.js configuration.js src/**; true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klugjo/vk-jonathan-klughertz.git"
+  },
+  "keywords": [],
+  "author": "Klughertz Jonathan <klughertz.j@gmail.com> (http://klugjo.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klugjo/vk-jonathan-klughertz/issues"
+  },
+  "homepage": "https://github.com/klugjo/vk-jonathan-klughertz#readme"
+}
