@@ -20,13 +20,13 @@ A simple request to the website is enough to get the content. I have used [reque
 
 There are 2 main routes I could go here and I decided to implement both to check the performances. 
 
-- virtual DOM then using jQuery to parse to content.
+#### 1) virtual DOM then using jQuery to parse to content.
 
 Plus: Easy to implement (took me less than 5 minutes)
 
 Minus: Sub optimal performance (~ 53.338ms on my machine) and prone to errors if HTML so malformed.
 
-- Parsing the HTML with a Regexp
+#### 2) Parsing the HTML with a Regexp
 
 Plus: Excellent performance (~ 0.676ms on my machine). That is around 80 times faster than jQuery.
 
@@ -34,23 +34,28 @@ Minus: Took me longer to implement, around 15 min.
 
 ### Analysis
 
-1) Filtering out the non content links
+#### 1) Filtering out the non content links
 
 I am only keeping the links to media content (configurable in `configuration.js`)
 
-2) Consolidating the data
+#### 2) Consolidating the data
 
-It appeared at this point that all links come in pairs most of the time (one link for the image followed by one link for the text). All these ‘pairs’ need to be grouped.
+It appears at this point that all links come in pairs most of the time (one link for the image followed by one link for the text). All these ‘pairs’ need to be grouped.
 
 ### Reporting
 
-At this point, all that is left to do is find the duplicates, print out the results in the console and generate a quick txt report.
+All that is left to do is find the duplicates, print out the results in the console and generate a quick txt report.
 
 # B) Best Solution
 
-At this point it is obvious that the Regular Expression route was the best. But the time spent parsing the page is negligible compare to the time spent making the request and retrieving the data.
+The jQuery solution is easier to implement, debug and the code is easier to read. But the performance is really bad compared to the RegExp. 
+The RegExp route is harder to code and produced uglier code but the execution is lightning fast in comparison to the jQuery solution.
 
-In a real world scenario, the check should really be done before generating the views as the data is already available and formatted properly.
+Putting things back into perspective, it appears that the parsing only account to less than 25% of the full execution time, as most of the time is spent making the request to the server and getting back the page.
+
+If this code was part of some end to end or integration tests, I would most probably the jQuery path. In a suite of long running tests, a few ms difference aren't that much, and readability is a big deal (jQuery is a lot more populat with JS devs than RegExp).
+
+Alternatively, the check could really be done on the server before generating the views as the data is already available and formatted properly.
 
 # C) Instructions
 
