@@ -14,18 +14,22 @@ After examination of the traffic and the HTML source, it appears that the views 
 
 ### Scraping:
 
-A simple request to the website is enough to get the content. I have used ![request](https://github.com/request/request) in the past and it works great. It worked great again.
+A simple request to the website is enough to get the content. I have used [request](https://github.com/request/request) in the past and it works great. It worked great again.
 
 ### Link extraction
 
 There are 2 main routes I could go here and I decided to implement both to check the performances. 
 
 - virtual DOM then using jQuery to parse to content.
+
 Plus: Easy to implement (took me less than 5 minutes)
+
 Minus: Sub optimal performance (~ 53.338ms on my machine) and prone to errors if HTML so malformed.
 
 - Parsing the HTML with a Regexp
+
 Plus: Excellent performance (~ 0.676ms on my machine). That is around 80 times faster than jQuery.
+
 Minus: Took me longer to implement, around 15 min.
 
 ### Analysis
